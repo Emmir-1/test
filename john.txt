@@ -1,2 +1,3 @@
 Hello world My name John Snow i'm king of Nortch
+print("hello")
 
